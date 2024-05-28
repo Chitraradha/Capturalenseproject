@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCNEv9c1m-DGOLjfKgDYpdtKtyb7pOY2Lo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>73912330168</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.capturaLens.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>captura-lens-b870c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>captura-lens-b870c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:73912330168:ios:b470f4f26a7d70afaa114d</string>
+</dict>
+</plist>

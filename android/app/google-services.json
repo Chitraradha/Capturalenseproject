@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "423082861401",
+    "project_id": "captura-c859a",
+    "storage_bucket": "captura-c859a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423082861401:android:dde6e1ba2e0f3e182e2248",
+        "android_client_info": {
+          "package_name": "com.example.captura_lens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423082861401-fdbqeqi1d845cr9vmenfhkslvusbbut8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.captura_lens",
+            "certificate_hash": "f75dc8436dc7e9185af14b89d874099743bfeed1"
+          }
+        },
+        {
+          "client_id": "423082861401-854erjre4v66e4kc1hds9c0qc9fbuje4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfboU3jM3lJM-0jJb2_Ks44_i_WFU7IqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423082861401-854erjre4v66e4kc1hds9c0qc9fbuje4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "423082861401-fs9us6ejpv168v1vl3itkqs9fn26qkto.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.capturaLens"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
